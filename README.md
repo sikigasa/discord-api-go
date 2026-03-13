@@ -1,5 +1,6 @@
 # discord-api-go
 
+個人用途のために作成された、
 Go 言語向けの Discord API クライアントライブラリです。REST API と Gateway WebSocket を統合サポートします。
 
 ## インストール
